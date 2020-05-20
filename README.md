@@ -1,2 +1,2 @@
-# c-sockets
-Socket Programming in C
+# Socket Programming in C
+
